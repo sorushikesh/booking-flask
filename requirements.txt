@@ -1,1 +1,6 @@
 flask
+flask-cors
+flask-restx
+flask-pymongo
+pydantic[email]
+python-json-logger
